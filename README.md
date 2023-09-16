@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Integrate AI on my projects**
 
-- ☁️ I've keen interest in lenguages. So, I'm learning **Japanese** on my free time. 
+- ☁️ I've keen interest in lenguages. So, I'm speaking **Japanese** on my free time. 
 
 - 💬 Ask me about **Flask, Chatbots, Kanji, AI**
 
@@ -66,21 +66,22 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
       </a>
-    </td>    
-    <td align="center">
-      <h2> Back-End</h2>
-      <!-- tech stack icons for Technologies -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flask,express,firebase,mongodb,mysql,nodejs,sequelize,netlify" />
-      </a>
-    </td>        
-    <td align="center">
-      <h2>Technologies</h2>
+    </td> 
+      <td align="center">
+      <h2>Tools</h2>
       <!-- tech stack icons for Technologies -->
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,aws,github,postman,vscode" />
       </a>
     </td>
+    <td align="center">
+      <h2>Back-End</h2>
+      <!-- tech stack icons for Technologies -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flask,express,firebase,mongodb,mysql,nodejs,sequelize,netlify,django" />
+      </a>
+    </td>        
+
     
   </tr>
 </table>
@@ -133,7 +134,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/alejo-osuna-678530232/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://alejandro-osuna-portfolio.netlify.app" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="webpage" height="50" width="50" /></a>
-<a href="https://w.app/Osuna" target="blank"><img align="center" src="https://www.flaticon.es/icono-gratis/whatsapp_733585" alt="webpage" height="50" width="50" /></a>
+<a href="https://w.app/Osuna" target="blank"><img align="center" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="webpage" height="50" width="50" /></a>
 
   
 </p>
