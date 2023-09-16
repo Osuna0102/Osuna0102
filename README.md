@@ -1,22 +1,11 @@
 
 
 <!--
-**Osuna0102/Osuna0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Alejandro Osuna!</h1></summary>
-  </ul>
-</div>
+<h1 align="center"><b>Hi , I'm Alejandro Osuna </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <!--- snake -->
@@ -29,24 +18,87 @@ Here are some ideas to get you started:
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">404 Error: Sarcasm Module Not Found.</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **AI, Flask, React, Express, Firebase, UX**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Integrate AI on my projects**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in lenguages. So, I'm learning **Japanese** on my free time. 
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **Flask, Chatbots, Kanji, AI**
 
 - 📫 Feel free to reach me out **osuna.alejo@gmail.com**
 <!--Intro end-->
 
 
+
+<!-- Create a table with two columns -->
+<br><br>
+
+<br>
+
+-----
+
+<br>
+<br>
+
+## <p align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+<p align="center">
+<table>
+  <tr>
+    <td align="center">
+      <h2>Lenguages</h2>
+      <!-- tech stack icons for Front End -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,js,cs,c" />
+      </a>
+    </td>  
+    <td align="center">
+      <h2>Front-End</h2>
+      <!-- tech stack icons for Front End -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
+      </a>
+    </td>    
+    <td align="center">
+      <h2> Back-End</h2>
+      <!-- tech stack icons for Technologies -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flask,express,firebase,mongodb,mysql,nodejs,sequelize,netlify" />
+      </a>
+    </td>        
+    <td align="center">
+      <h2>Technologies</h2>
+      <!-- tech stack icons for Technologies -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,aws,github,postman,vscode" />
+      </a>
+    </td>
+    
+  </tr>
+</table>
+
+
+
+<br>
+<br>
+
+-----
+
+<br>
+
+
+## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -69,52 +121,7 @@ Here are some ideas to get you started:
 </table>
 <!--- stats (end) -->
 
-<!-- Create a table with two columns -->
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-<table>
-  <tr>
-    <td align="center">
-      <h2>Lenguages 👨🏻‍💻</h2>
-      <!-- tech stack icons for Front End -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,js,cs,c" />
-      </a>
-    </td>  
-    <td align="center">
-      <h2>Front-End 👨🏻‍💻</h2>
-      <!-- tech stack icons for Front End -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
-      </a>
-    </td>    
-    <td align="center">
-      <h2> Back-End👨🏻‍💻</h2>
-      <!-- tech stack icons for Technologies -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flask,express,firebase,mongodb,mysql,nodejs,sequelize,netlify" />
-      </a>
-    </td>        
-    <td align="center">
-      <h2>Technologies👨🏻‍💻</h2>
-      <!-- tech stack icons for Technologies -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,aws,discord,github,postman,vscode" />
-      </a>
-    </td>
-    
-  </tr>
-</table>
-
-
-
-
-
-<!-- Connect with me -->
+  
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -124,11 +131,14 @@ Here are some ideas to get you started:
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="[https://1010nishant.hashnode.dev/](https://alejandro-osuna-portfolio.netlify.app)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="webpage" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/alejo-osuna-678530232/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://alejandro-osuna-portfolio.netlify.app" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="webpage" height="50" width="50" /></a>
+<a href="https://w.app/Osuna" target="blank"><img align="center" src="https://www.flaticon.es/icono-gratis/whatsapp_733585" alt="webpage" height="50" width="50" /></a>
+
   
 </p>
 
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=努力者;Multimedial+Engineer;プログラマー;Active+Learner;独学の人"></a>
 
 
 <!--horizontal divider(gradiant)-->
