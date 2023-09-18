@@ -71,7 +71,7 @@
       <h2>Tools</h2>
       <!-- tech stack icons for Technologies -->
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,aws,github,postman,vscode" />
+        <img src="https://skillicons.dev/icons?i=git,aws,github,postman,vscode,fastapi" />
       </a>
     </td>
     <td align="center">
