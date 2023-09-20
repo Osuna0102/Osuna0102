@@ -26,7 +26,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **AI, Flask, React, Express, Firebase, UX**
 
-- 🌱 I’m currently learning **Integrate AI on my projects**
+- 🌱 I’m currently learning **Integrate AI on my projects and manage requests**
 
 - ☁️ I've keen interest in lenguages. So, I'm speaking **Japanese** on my free time. 
 
